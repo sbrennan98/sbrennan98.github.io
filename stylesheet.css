@@ -1,5 +1,7 @@
 *{
     text-align: center;
+}
+h1, h2, h3{
     background-color: rgba(33, 33, 33, .5);
 }
 img{
